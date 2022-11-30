@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2022-11-30
+  Features:
+    - Mod pack that contains BZ mods that alter green circuit recipe. Includes Tin, Natural Gas,
+      Graphite & Diamonds.
+    - Updates default settings to keep things interesting but not maximum complexity.
+    - Please note, this modpack is a subset of Very BZ and adds nothing more.

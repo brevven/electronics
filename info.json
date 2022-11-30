@@ -1,0 +1,17 @@
+{
+    "name": "bzbelectronics",
+    "version": "0.1.0",
+    "factorio_version": "1.1",
+    "title": "BZ Bee: Electronics",
+    "author": "Brevven",
+    "contact": "",
+    "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=98515",
+    "dependencies": [
+      "bz-dsr-bridge",
+      "bzcarbon",
+      "bzgas",
+      "bztin"
+    ],
+    "description": "Mod pack including Graphite & Diamonds, Tin, and Natural Gas. Together these mods modify many recipes, including green circuits."
+}
+
